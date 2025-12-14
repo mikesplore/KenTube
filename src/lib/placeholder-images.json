@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "trending-video-1",
+      "description": "Thumbnail for Sauti Sol - Midnight Train",
+      "imageUrl": "https://images.unsplash.com/photo-1658227633934-b589ca17d602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtdXNpYyUyMGNvbmNlcnR8ZW58MHx8fHwxNzY1NzAxNDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music concert"
+    },
+    {
+      "id": "trending-video-2",
+      "description": "Thumbnail for Nairobi travel vlog",
+      "imageUrl": "https://images.unsplash.com/photo-1534298261662-f8fdd25317db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaXR5JTIwc2t5bGluZXxlbnwwfHx8fDE3NjU1OTg2NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city skyline"
+    },
+    {
+      "id": "trending-video-3",
+      "description": "Thumbnail for Kenyan comedy skit",
+      "imageUrl": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZW9wbGUlMjBsYXVnaGluZ3xlbnwwfHx8fDE3NjU3MTE5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "people laughing"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1590086782792-42dd2350140d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjU2NzI5MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
 }
