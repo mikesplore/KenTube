@@ -1,4 +1,4 @@
-import { createApiHandler } from '@genkit-ai/next';
-import '@/ai/flows/answer-kenyan-youtube-questions';
+import { appRoute } from '@genkit-ai/next';
+import { answerKenyanYoutubeQuestionFlow } from '@/ai/flows/answer-kenyan-youtube-questions';
 
-export const { GET, POST } = createApiHandler();
+export const POST = appRoute(answerKenyanYoutubeQuestionFlow);
