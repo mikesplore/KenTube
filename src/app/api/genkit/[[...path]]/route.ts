@@ -1,4 +1,4 @@
-import { nextGenkit } from '@genkit-ai/next';
+import { createApiHandler } from '@genkit-ai/next';
 import '@/ai/flows/answer-kenyan-youtube-questions';
 
-export const { GET, POST } = nextGenkit();
+export const { GET, POST } = createApiHandler();
